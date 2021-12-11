@@ -1,2 +1,2 @@
 # talkative-hobbies
-a fun way tp display my hobbies!
+a fun way to display my hobbies!
